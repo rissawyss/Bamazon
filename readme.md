@@ -99,3 +99,6 @@ function updateAddedInventory(id, incInv) {
 
 ## Bamazon Manager Add Product
 ![bamazonmanager-addproduct](https://cloud.githubusercontent.com/assets/22284225/25300926/91d02436-26cf-11e7-95d0-ae36c2ec6143.png)
+
+## Bamazon Manager Add to Inventory
+![bamazonmanager-addtoinventory](https://cloud.githubusercontent.com/assets/22284225/25300931/bf25df52-26cf-11e7-8e10-341a71b6c09d.png)
