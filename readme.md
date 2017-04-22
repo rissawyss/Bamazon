@@ -104,3 +104,4 @@ function updateAddedInventory(id, incInv) {
 ![bamazonmanager-addtoinventory](https://cloud.githubusercontent.com/assets/22284225/25300931/bf25df52-26cf-11e7-8e10-341a71b6c09d.png)
 
 ## Bamazon Manager View Low Inventory
+![bamazonmanager-viewproducts-viewlowinventory](https://cloud.githubusercontent.com/assets/22284225/25300939/038ae660-26d0-11e7-853d-9d4863788857.png)
