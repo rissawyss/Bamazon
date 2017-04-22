@@ -1,4 +1,4 @@
-#HW Week 12 - {Node.js & MySQL}
+# HW Week 12 - {Node.js & MySQL}
 Homework week 12 for UCLA Coding BootCamp.
 
 This assignment entails creating an Amazon-like storefront using MySQL and Node.js.
