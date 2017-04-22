@@ -38,7 +38,7 @@ Running the bamazonManager.js application will list a set of menu options:
 	-Node Package Module console.table
 
 
-## CODE EXPLANATION
+### CODE EXPLANATION-Bamazon Customer
 For the bamazonCustomer.js application, after capturing user input to purchase an item, I created a function to process a purchase which takes in parameters of the item id, order quantity, number in inventory and cost. The node.js mysql CRUD process for updating records was stored in a variable "updateRecord". When the processPurchase(id, orderQty, inv, cost) function runs, the database is updated with the new inventory quantity related to the item_id.
 
 ```
@@ -57,7 +57,7 @@ function processPurchase(id, orderQty, inv, cost) {
 
 ```
 
-## CODE EXPLANATION
+### CODE EXPLANATION-Bamazon Manager
 For the bamazonManager.js application, the managerStore(action) function runs respective actions depending on prompted user selection.
 If Manager selects the option to add a product to inventory, the updateAddedInventory(id, incInv) function implements a node.js mysql CRUD process for updating the added inventory.
 
