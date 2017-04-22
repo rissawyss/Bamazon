@@ -91,4 +91,5 @@ function updateAddedInventory(id, incInv) {
 };
  
 ```
-
+## Bamazon Customer Screenshot
+![bamazoncustomerscreenshot1](https://cloud.githubusercontent.com/assets/22284225/25300897/e0231662-26ce-11e7-884c-b3279264c378.png)
