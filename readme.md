@@ -27,7 +27,7 @@ Then the app prompts users with two messages:
 Running the bamazonManager.js application will list a set of menu options:
 	-View Products for Sale: which lists every available item
 	-View Low Inventory: which lists all items with inventory count less than five.
-	-Add to Inventory: displays a prompt that will lets the manager "add more" of any item currently in the store.
+	-Add to Inventory: displays a prompt that lets the manager "add more" of any item currently in the store.
 	-Add New Product: allows the manager to add a completely new product to the store.
 
 ## Technologies Used
