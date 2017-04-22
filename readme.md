@@ -91,10 +91,10 @@ function updateAddedInventory(id, incInv) {
 };
  
 ```
-## Bamazon Customer Screenshot1
+## Bamazon Customer Purchase Product
 ![bamazoncustomerscreenshot1](https://cloud.githubusercontent.com/assets/22284225/25300897/e0231662-26ce-11e7-884c-b3279264c378.png)
 
-## Bamazon Customer Screenshot2
+## Bamazon Customer Insufficient Quantity
 ![bamazonecustomerscreenshot2](https://cloud.githubusercontent.com/assets/22284225/25300963/83481a62-26d0-11e7-87b7-bdf55ac1ad1e.png)
 
 ## Bamazon Manager Add Product
